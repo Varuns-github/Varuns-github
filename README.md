@@ -4,9 +4,11 @@
 
 Hi there 👋 , I’m @Varuns-github (Varun),
 
-I started as a frontend developer, working on React, Angular, Vue, Next etc. I also got my hands dirty with Node and Golang. After 5 years of playing around with these I decided to do Masters degree in Aritificial Intelligence.
+Originally from India, currently in London.
 
-Currently pursuing a Masters degree from Queen Mary Univeristy of London in Artificial Intelligence. As part of this program have been able to explore my coding skills with Python and Java.
+I started as a frontend developer, working on React, Angular, Vue, Next etc. I also got my hands dirty with Node and Golang. After 5 years of playing around with these I decided to do a Masters degree.
+
+Currently pursuing a Masters degree from Queen Mary Univeristy of London in Artificial Intelligence. As part of this program have been able to explore my abilities in cutting edge technologies and ideas.
 
 Apart from the the full time degree, I am also working part-time as consultant so that I dont lose touch with industry level updates.
 
